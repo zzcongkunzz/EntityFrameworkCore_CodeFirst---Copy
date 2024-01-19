@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<ProductOder>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Customer name</th>
+        <th>Oder Date</th>
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>@Model[0].Order.Id</th>
+        <th>@Model[0].Order.Customer.FirstName @Model[0].Order.Customer.LastName</th>
+        <th>@Model[0].Order.OderDate</th>
+    </tr>
+    </tbody>
+</table>

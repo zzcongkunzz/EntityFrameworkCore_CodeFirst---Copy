@@ -1,0 +1,249 @@
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\appsettings.Development.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\appsettings.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.staticwebassets.runtime.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.exe
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.deps.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.runtimeconfig.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.pdb
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Azure.Core.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Azure.Identity.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFramework.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Humanizer.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.CodeDom.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Memory.Data.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.AssemblyReference.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.AssemblyInfoInputs.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.AssemblyInfo.cs
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.CoreCompileInputs.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.MvcApplicationPartsAssemblyInfo.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.RazorAssemblyInfo.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.RazorAssemblyInfo.cs
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.EntityFrameworkCore_CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.build.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.pack.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.build.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.development.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\bundle\EntityFrameworkCore_CodeFirst.styles.css
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\projectbundle\EntityFrameworkCore_CodeFirst.bundle.scp.css
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.CopyComplete
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\refint\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.pdb
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.genruntimeconfig.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\ref\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\appsettings.Development.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\appsettings.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.staticwebassets.runtime.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.exe
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.deps.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.runtimeconfig.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.pdb
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Azure.Core.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Azure.Identity.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFramework.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Humanizer.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.CodeDom.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Memory.Data.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.AssemblyReference.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.AssemblyInfoInputs.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.AssemblyInfo.cs
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.CoreCompileInputs.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.MvcApplicationPartsAssemblyInfo.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.RazorAssemblyInfo.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.RazorAssemblyInfo.cs
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.EntityFrameworkCore_CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.build.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.pack.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.build.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.development.json
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\bundle\EntityFrameworkCore_CodeFirst.styles.css
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\projectbundle\EntityFrameworkCore_CodeFirst.bundle.scp.css
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.CopyComplete
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\refint\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.pdb
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.genruntimeconfig.cache
+D:\save\Web pro\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\ref\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\appsettings.Development.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\appsettings.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.staticwebassets.runtime.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.exe
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.deps.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.runtimeconfig.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFrameworkCore_CodeFirst.pdb
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Azure.Core.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Azure.Identity.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\EntityFramework.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Humanizer.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.CodeDom.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Memory.Data.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.AssemblyReference.cache
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.AssemblyInfoInputs.cache
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.AssemblyInfo.cs
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.CoreCompileInputs.cache
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.MvcApplicationPartsAssemblyInfo.cache
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.RazorAssemblyInfo.cache
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.RazorAssemblyInfo.cs
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.EntityFrameworkCore_CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.build.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EntityFrameworkCore_CodeFirst.props
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.pack.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.build.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\staticwebassets.development.json
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\bundle\EntityFrameworkCore_CodeFirst.styles.css
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\scopedcss\projectbundle\EntityFrameworkCore_CodeFirst.bundle.scp.css
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.csproj.CopyComplete
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\refint\EntityFrameworkCore_CodeFirst.dll
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.pdb
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\EntityFrameworkCore_CodeFirst.genruntimeconfig.cache
+D:\save\Web pro\ThucHanh\Tuan2\EntityFrameworkCore_CodeFirst - Copy\EntityFrameworkCore_CodeFirst\obj\Debug\net7.0\ref\EntityFrameworkCore_CodeFirst.dll

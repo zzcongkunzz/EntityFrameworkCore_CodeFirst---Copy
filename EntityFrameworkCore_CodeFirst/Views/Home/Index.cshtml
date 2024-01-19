@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Order>
+
+
+<h2>Order</h2>
+<form method="post" asp-controller="Home" asp-action="Search">
+    <span>Customer name: </span>
+    <input type="text" name="CustomerName"/>
+    <input type="submit" value="search"></input>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Customer name</th>
+            <th>Oder Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Order in Model)
+        {
+            <tr>
+                <th>@Order.Id</th>
+                <th>@Order.Customer.FirstName</th>
+                <th>@Order.OderDate</th>
+                 <th>
+                    <a href="@Url.Action("OrderDetail", "Home", new {orderId = @Order.Id})">Order Detail</a>
+                    |
+                    <a asp-action="EditOrder" asp-route-authorID="@Order.Id">Edit</a>
+                    |
+                    <a asp-action="DeleteOrder" asp-route-authorID="@Order.Id">Delete</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>

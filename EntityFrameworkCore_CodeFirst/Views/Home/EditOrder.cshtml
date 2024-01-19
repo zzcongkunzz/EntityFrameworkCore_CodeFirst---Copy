@@ -1,0 +1,11 @@
+﻿
+@{
+    Layout = null;
+}
+@model EditOrder
+<form asp-controller="Home" asp-action="EditOrder" method="post">
+        <div>ID: <input asp-for="@Model.Order.Id" readonly/> </div>
+        <div>CustomerID: <input asp-for="@Model.Order.Customer.Id"/> </div>
+    <button type="submit">Save </button>
+</form>
+
